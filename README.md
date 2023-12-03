@@ -4,7 +4,7 @@
 My name is donaldqian, a sixth grade student.
 
  - 📚I'm currently learning Olympiad for Informatics💻.
- - 🤔I have a target —— get the first prize🥇 in CSP-S2023!
+ - 🤔I have a target —— get the first prize🥇 in CSP-S2024!
  - 🤩My interests: computer science🤖, The Legend of Zelda🎮, football/soccer⚽, basketball🏀...
  - What? You asked me to talk about my favourite characters? Of course Link!
 
